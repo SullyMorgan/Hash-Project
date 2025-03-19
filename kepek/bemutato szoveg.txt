@@ -1,0 +1,10 @@
+2. slide:
+- hashtable definico s ez az
+A hashtabla olyan adatszerkezet, amely kulcs-ertek parokbol all es lehetove teszi ezeknek a gyors tarolasat es hozzaferesuket. Egy tombben tarolja az adatokat es egy hash fuggvennyel hatarozza meg az elemek indexeit.
+
+3. slide:
+- hogy mukodik a hashtable
+
+
+4. slide: 
+- hashtable listaval
